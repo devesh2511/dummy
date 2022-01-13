@@ -1,0 +1,8 @@
+tensorflow-cpu==1.15.0
+flask
+opencv-python-headless==4.2.0.32
+numpy
+werkzeug
+pillow
+uuid
+urllib3
